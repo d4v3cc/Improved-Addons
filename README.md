@@ -1,1 +1,1 @@
-This is basically the addon Rocket Jumpers but somehow improved.
+This is basically some addons but i improved them somehow
